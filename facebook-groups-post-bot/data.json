@@ -1,0 +1,13 @@
+{
+    "posts": [
+    {
+      "content": {
+        "title": "Ever wonder how a seemingly harmless text prompt can lead to a massive data breach? In this video, we'll expose the hidden dangers of prompt injection, a new class of attacks that exploit vulnerabilities in AI systems. We'll show you exactly how a hacker can manipulate a large language model to leak sensitive information, including personal data.\n\nYou'll learn:\n\nWhat prompt injection is and why it's a growing threat.\n\nA real-world example of a data leakage attack.\n\nPractical tips to protect yourself and your systems from these attacks.\n\nStay ahead of the curve and understand the next wave of cybersecurity threats.\n\nLinkedIn:   / pwnsystem  \n\n#promptinjection #aihacking #prompt #aisecurity #cloudsecurity #ai #llmhacking #aivulnerability #vulnerability #hacking #llm",
+        "attachment": "https://youtu.be/Q3h10iq_KLo?si=2e0qS7YWC8kK1BO6"
+      }
+    }
+  ],
+    "groups": [
+        "https://www.facebook.com/groups/theeasyhack",
+        "https://www.facebook.com/pwnsystem/"]
+}
