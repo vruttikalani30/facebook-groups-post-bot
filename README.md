@@ -1,4 +1,4 @@
-# facebook-groups-post-bot
+# facebook-groups-post
 
  Details
 
