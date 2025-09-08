@@ -1,0 +1,13 @@
+{
+    "posts": [
+    {
+      "content": {
+        "title": "What is Insecure Output Handling?\nIn this video, we dive deep into the Insecure Output Handling vulnerability, a critical issue in modern AI hacking and application security. Learn how attackers exploit insecure handling of outputs, the risks it creates, and how to protect your systems from real-world threats.\n\n You’ll Learn in This Video:\n F⃣ What is Insecure Output Handling in AI systems and applications\nHow attackers can weaponize it for AI hacking and data leaks\nReal-world risks and security implications\nBest practices and defenses to mitigate this vulnerability\n\n Stay Ahead of AI Security Threats!\nSubscribe for more cloud pentesting, AI hacking, and application security content.\n\nConnect with me: punitdarji(https://www.linkedin.com/in/punitdarji/)  \n\nFollow: pwnsystem(https://www.linkedin.com/company/pwnsystem/)  \n\nInsecure Output Handling\nAI Hacking Vulnerability\nInsecure Output Handling Exploit\nInsecure Output Handling Tutorial\nAI Security Vulnerability\nApplication Security Testing\nOutput Handling Vulnerability\nAI Hacking Explained\nEthical Hacking AI\nPenetration Testing AI\n\n#InsecureOutputHandling #AIHacking #ApplicationSecurity #EthicalHacking #CyberSecurity #Pentesting #AIVulnerability #AppSec #BugBounty #cloudsecurity #infosec #information #aivulnerability",
+        "attachment": "https://youtu.be/uVHTruIjUSI?si=Whr2jc92R07aDGa7"
+      }
+    }
+  ],
+    "groups": [
+        "https://www.facebook.com/groups/theeasyhack",
+        "https://www.facebook.com/pwnsystem/"]
+}
