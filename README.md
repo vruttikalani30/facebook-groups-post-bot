@@ -1,7 +1,5 @@
 # facebook-groups-post
 
- Details
-
 This project have two scripts **save_groups**.py **post_groups**.py
 
 The **save_groups**.py script is used to save the groups where you are a member in the data.json, searching them with specific keyword. This script is useful if you want to post in a lot of groups, because you can save the groups in the json file and use it in the **post_groups**.py script.
